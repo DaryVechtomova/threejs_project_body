@@ -41,13 +41,14 @@
     "prettier": "3.0.2",
     "raw-loader": "^4.0.2",
     "style-loader": "^3.3.3",
-    "webpack": "^5.88.2",
+    "webpack": "^5.97.1",
     "webpack-cli": "^5.1.4",
     "webpack-dev-server": "^4.15.1",
     "webpack-merge": "^5.9.0"
   },
   "dependencies": {
+    "cannon-es": "^0.20.0",
     "gsap": "^3.12.2",
-    "three": "^0.168.0"
+    "three": "^0.173.0"
   }
 }
